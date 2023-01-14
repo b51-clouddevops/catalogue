@@ -9,3 +9,5 @@ SyslogIdentifier=catalogue
 
 [Install]
 WantedBy=multi-user.target
+
+MONGO_URL=""mongodb://admin1:roboshop1@:27017/catalogue""
